@@ -1,0 +1,11 @@
+{
+  "system_name": "ZanderEtAlFishing",
+  "ensemble_weight_lr": 0.5,
+  "ensemble_weight_lgbm": 0.5,
+  "threshold": 0.5,
+  "high_confidence_threshold": 0.7,
+  "lexical_remove_digits": true,
+  "lexical_remove_special_characters": true,
+  "model_version": "v1.0"
+}
+
